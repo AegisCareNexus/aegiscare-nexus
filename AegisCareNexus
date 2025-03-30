@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>AegisCare Nexus</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 0; padding: 0; background: #f8f9fa; color: #333; }
+    header { background: #0e4c92; color: white; padding: 2rem; text-align: center; }
+    section { padding: 2rem; max-width: 800px; margin: auto; }
+    h1, h2 { color: #0e4c92; }
+    a { color: #0e4c92; text-decoration: none; }
+    footer { background: #e9ecef; text-align: center; padding: 1rem; margin-top: 2rem; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>AegisCare Nexus</h1>
+    <p>Committed to Care. Powered by Innovation.</p>
+  </header>
+
+  <section>
+    <h2>Welcome</h2>
+    <p>We’re so glad you’re here. At AegisCare Nexus, we believe everyone deserves compassionate, innovative care — no matter where they are. Whether you're exploring wellness options, looking to partner with us, or just curious, you’re in the right place.</p>
+    <p>Let’s create a healthier, more connected future together.</p>
+  </section>
+
+  <section>
+    <h2>Experiences</h2>
+    <p>Since the age of 8, 9, or 10, I have faced many difficulties within the care system. I have encountered carers who have sworn at me, spat at me, and treated me unfairly. These experiences have shaped my perspective and fueled my passion for advocating for better care standards.</p>
+    <p>Living in the care system was not just about lacking a stable home; it was about struggling to be heard and respected. Many of the carers who were supposed to provide support instead created an environment of fear and neglect.</p>
+    <p>Despite these challenges, I refused to let the system define me. I started researching the rights of children in care, speaking with others who had similar experiences, and working toward making the system more accountable.</p>
+    <p>The care system needs urgent reform. Proper training for carers, stronger accountability, and better mental health support for young people in care are crucial. Every child deserves to feel safe and respected.</p>
+  </section>
+
+  <section>
+    <h2>Why I Made This Website</h2>
+    <p>My journey has been painful, but it has also given me a purpose – to fight for those who cannot fight for themselves. AegisCare Nexus was created to be a voice for change, a place where stories like mine can be heard, and where solutions can be built.</p>
+  </section>
+
+  <section>
+    <h2>Contact</h2>
+    <p><strong>Email:</strong> <a href="mailto:AegisCareNexus@outlook.com">AegisCareNexus@outlook.com</a></p>
+    <p><strong>Phone (WhatsApp Business only):</strong> <a href="tel:+447377673288">07377 673288</a></p>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 AegisCare Nexus. All rights reserved.</p>
+  </footer>
+</body>
+</html>
